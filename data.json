@@ -48,7 +48,8 @@
           "Higía",
           "Harmonía"
         ],
-        "action": "suma"
+        "action": "suma",
+        "image": "/opciones/bosque-bamboo.jpg"
       },
       "Monte Roraima": {
         "gods": [
@@ -64,7 +65,8 @@
           "Jano",
           "Eolo"
         ],
-        "action": "suma"
+        "action": "suma",
+        "image": "/opciones/monte-roraima.jpg"
       },
       "Parque Keukenhof": {
         "gods": [
@@ -81,7 +83,8 @@
           "Harmonía",
           "Eris"
         ],
-        "action": "suma"
+        "action": "suma",
+        "image": "/opciones/parque-keukenhof.jpg"
       },
       "Isla Marieta": {
         "gods": [
@@ -91,7 +94,8 @@
           "Eros",
           "Hemera"
         ],
-        "action": "suma"
+        "action": "suma",
+        "image": "/opciones/isla-marieta.jpg"
       },
       "Playa Roja": {
         "gods": [
@@ -106,7 +110,8 @@
           "Eolo",
           "Deimos"
         ],
-        "action": "suma"
+        "action": "suma",
+        "image": "/opciones/playa-roja.jpg"
       },
       "Bosque Negro": {
         "gods": [
@@ -121,7 +126,8 @@
           "Deimos",
           "Nix"
         ],
-        "action": "suma"
+        "action": "suma",
+        "image": "/opciones/bosque-negro.jpg"
       },
       "Mina de Naica": {
         "gods": [
@@ -133,7 +139,8 @@
           "Fobos",
           "Nix"
         ],
-        "action": "suma"
+        "action": "suma",
+        "image": "/opciones/mina-naica.jpg"
       },
       "Cebu": {
         "gods": [
@@ -146,7 +153,8 @@
           "Eris",
           "Hemera"
         ],
-        "action": "suma"
+        "action": "suma",
+        "image": "/opciones/cebu.png"
       }
     },
     "Seleccioná un SuperHéroe": {
@@ -1068,7 +1076,8 @@
           "Perséfone",
           "Hemera"
         ],
-        "action": "suma"
+        "action": "suma",
+        "image": "/opciones/amarilis.jpg"
       },
       "Margarita": {
         "gods": [
@@ -1081,7 +1090,8 @@
           "Harmonía",
           "Eris"
         ],
-        "action": "suma"
+        "action": "suma",
+        "image": "/opciones/margarita.jpg"
       },
       "Clavel": {
         "gods": [
@@ -1099,7 +1109,8 @@
           "Tánatos",
           "Deimos"
         ],
-        "action": "suma"
+        "action": "suma",
+        "image": "/opciones/clavel.jpg"
       },
       "Delfinio": {
         "gods": [
@@ -1108,7 +1119,8 @@
           "Tánatos",
           "Fobos"
         ],
-        "action": "suma"
+        "action": "suma",
+        "image": "/opciones/delfino.avif"
       },
       "Jacinto": {
         "gods": [
@@ -1123,7 +1135,8 @@
           "Eolo",
           "Nix"
         ],
-        "action": "suma"
+        "action": "suma",
+        "image": "/opciones/jacinto.jpg"
       },
       "Gladiolo": {
         "gods": [
@@ -1137,7 +1150,8 @@
           "Nike",
           "Deimos"
         ],
-        "action": "suma"
+        "action": "suma",
+        "image": "/opciones/gladiolo.jpg"
       },
       "Iris": {
         "gods": [
@@ -1152,7 +1166,8 @@
           "Fobos",
           "Hemera"
         ],
-        "action": "suma"
+        "action": "suma",
+        "image": "/opciones/iris.jpg"
       },
       "Aster": {
         "gods": [
@@ -1168,7 +1183,8 @@
           "Eris",
           "Nix"
         ],
-        "action": "suma"
+        "action": "suma",
+        "image": "/opciones/aster.jpg"
       }
     },
     "¿Qué pronombres usas para referirte a vos?": {
